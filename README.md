@@ -71,7 +71,7 @@
 
   <li><strong>Install the Bot (QuotexBee 🐝):</strong>  
     <p>Run the following command directly in your terminal:</p>
-    <pre><code>pip install git+https://github.com/your-username/prof-quotex.git</code></pre>
+    <pre><code>pip install https://github.com/akibuzzaman1/QuotexBee/raw/main/quotexbee-0.0.1-py3-none-any.whl</code></pre>
     <p>This will fetch the bot directly from GitHub and install it system-wide.</p>
   </li>
 
